@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SColosi
 - 👀 I’m interested in software development and game development
 - 🌱 I’m currently learning OpenGl and improve my skill in C++ and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me colosisimone@gmail.com or https://www.linkedin.com/in/simone-colosi-64a117143/
 
 <!---
